@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carsalesproject-e94ec",
+  "private_key_id": "f98a4161dc0f732a8c59a7a8584d3b523055afc6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCujAZFBEeANGtu\n1Vp/tsZHE2db7BO/3aPrvLDyrQDMezTfKFfcwRgjlGNLB6yuTI07HtVj4LVXOhaY\nxmhB2t8Km+KU4BPNRQ2fuByny9E/TBBy25W/qW5GHTAVsxC48fwK195xn4VKQkaG\nb/fvZzCvW5ihCiDWZl6eJI71WgdFUpmoG8jLqpzYydp5mXtVyFS30RnGQI81IIk0\nwzmsimW3KLm8dVnSg041QI+rA79AEThyA1y4kgQttbFvrt4g9p1kcwZHhYgUBNZd\nXMF384ylVgmewDhzJDveaWfnlFDahC091gy0FPnIjzzIMxhznr98hN1+urIzcW5U\nItIqXa2vAgMBAAECgf8Gxlxjnpo0Dm85hKzyYHcIlFrEActc2/BD6O6DiQbQLhiS\nDs4NCI4YEGVQU3XWOcT4bhlwmkxG9fIbWWddN0IbqVbhEvYLMmHvZ3cKmn0bDCoJ\nDkwXA9n+znBs0Ne88GJ2gy+M1/Fw8G7QZ4ALaUMlKcZxjgt3OrrbF0L3RwlSer2B\nVawPNPpuU4A1T9twVoLG42GRJhWTN78bY9oL9B3cek9jmY6/1n0Z63aWLgAcnZGR\n4YzxAuQglGbFRBqiiwOk5OalKPdEySHwcT4G4nb/qHlb7xCM76mtLR51FRzNhIIH\nkG5eXpBuxA1XjIBRZUh2cRueaEbmYx4WqL6LgdECgYEA488J8lOhAtBFo5Kqt6kW\n1j2t0sFvo8AYyev0RRgLVaoTvJjnLg0ArM/ZK+0zQTY9OqvqjtvAQ0lpkDF1aBOy\nLd0Pjf5uHcLgVLsfSKJk4Ecy4+j1F7myC85/rIismkoh0F4fBnPkLBB+YCAvEvqg\nq62HRe22yBRwXyJH1qN5s10CgYEAxCWoQoB4Rh9YK5ZJgBOgzBSpbgApPWjAE1bf\n96Qk+dTfgCkloLrpr6R9ptkB+wcLqam+mMYqT1DOdQy4miMJlt+grDtAhBOoezne\naxvlyYwLG9xbnAPaSf2RWnwRDpSY7QoF8RSqWv9OzMrVWeA/+TKAEYGyW6lLCXt+\nXoyugHsCgYEAy6oKi3IGzbwjtjRmmeH6v7jO0VAMngocX1GqxabUY1a1ZHQSolIP\nm3ALCUF8BD4YiX6vKd7+yWk1jisZet24+1XaFSk1izfxVO8h7c75fqVIswdPL1He\nAr4v2LEsFphWGLI87Ijpohdw1EGRtFcLE9EE0hjOw5u6RuMf9J2cLSUCgYEAr4Xb\nOhdoiaeG6QpFn5zw6W8b5tmyDcftCeFV7m8uv3okvrUTfO+GKq0R2/qZcR9u6laB\nvoimV+/BsLC/iP8Nl7tqNnWXWBmXTR4N0N9YE7GER1w7hjNUZZ3JMqWPRfLnnka3\n5nJNt7x7sXtYzGKGHON6AzCCgM/P3B5siQNvLH0CgYEAxuhPdRsfeucXtYCw1uQb\n+5qsUAa2CVPlAoQIWeMkQPGctugKkt66IxokWINVsm9XuM2tLlvACTbCqaiGbW7t\ny8/++88GME84CuBqUypF5PToIn96NAvo7sIwM+ZCd4tITrABbrHaNruvx6OpQqul\nIgVJ2sPFWv9yeMpp+WQZkxk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tjlhr@carsalesproject-e94ec.iam.gserviceaccount.com",
+  "client_id": "103355468119683193997",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tjlhr%40carsalesproject-e94ec.iam.gserviceaccount.com"
+}
